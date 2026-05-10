@@ -21,7 +21,6 @@ Building scalable APIs, cloud-native systems, and secure applications.
 ## 🚀 About Me
 
 ```yaml
-Name: Mohith
 Focus: Backend Engineering & Scalable Systems
 Currently Building: Full Stack & Cloud-native Applications
 Interested In:
