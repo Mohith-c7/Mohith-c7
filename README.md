@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Mohith Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Mohith</h1>
 
 <h3 align="center">
