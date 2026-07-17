@@ -34,65 +34,22 @@ Interested In:
 
 ---
 
-## 🧠 Core Areas
+## 🧠 Core Areas & Tech Stack
 
-<p align="center">
-
-| 🛠️ Backend | 🎨 Frontend | 🏗️ Architecture |
-|---|---|---|
-| API Development (FastAPI, Node.js) | Modern UIs (React, Next.js) | Scalable System Design |
-| Database Management (SQL/NoSQL) | Responsive Design (Tailwind) | Microservices & Event-Driven |
-
-| ☁️ Cloud & DevOps | 🛡️ Security | 🤖 AI & Innovation |
-|---|---|---|
-| AWS, Docker, Render | JWT, OAuth2, RBAC | AI-integrated Workflows |
-| CI/CD Pipelines | Data Encryption & Privacy | Automation & LLM Ops |
-
-</p>
-
----
-
-## ⚙️ Tech Stack
-
-### Languages & Logic
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,bash" />
-</p>
-
-### Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis" />
-</p>
-
-### Frontend & Styling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
-</p>
-
-### Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel,git,github,postman,vscode,linux" />
-</p>
+| Domain | Focus | Technologies |
+| :--- | :--- | :--- |
+| **🛠️ Backend** | APIs, Microservices, Database Management | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis" height="28" /> |
+| **🎨 Frontend** | Modern, responsive & interactive UIs | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux" height="28" /> |
+| **☁️ DevOps & Cloud** | CI/CD, Containerization, Infrastructure | <img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel" height="28" /> |
+| **⚙️ Languages & Tools** | Core programming, workflows & environments | <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,linux,git,github,postman,vscode" height="28" /> |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohith-c7&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohith-c7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-c7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohith-c7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith-c7&theme=tokyo-night&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohith-c7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="Mohith's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-c7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Mohith's Top Languages" />
 </p>
 
 ---
